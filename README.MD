@@ -1,3 +1,3 @@
 # README
 
-This is a README file. 
+This is the README file
